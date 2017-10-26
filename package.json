@@ -1,0 +1,8 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mala23/how-to-vuejs.git",
+  "author": "mala23 <mail@mala23.me>",
+  "license": "MIT"
+}
